@@ -54,5 +54,5 @@ The platform normalizes disparate unstructured accounting files into a unified r
  * Exposes enterprise services using high-performance **FastAPI** ASGI microservice endpoints. * Includes built-in auto-generated **Swagger / OpenAPI Documentation** via `/docs`. * Features structured telemetry check-points, company index parameters, historical query maps, and real-time clustering peer endpoints. —
  ## 🚀 Deployment & Execution Guide (Google Colab Environment)
  ### 1. Repository Setup & Ingestion Implementation Ensure raw `.csv` resource files are moved to the root level of your virtual cloud directory workspace (`/content/`). Execute the database setup pipeline script cell: ```python
- # Creates and aggregates datasets into nifty100.db python module_etl_pipeline.py 
+ ##Creates and aggregates datasets into nifty100.db python module_etl_pipeline.py 
 
